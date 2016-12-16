@@ -1,0 +1,33 @@
+{
+  "name": "cmelo-angular-sticky",
+  "version": "1.0.1",
+  "description": "Position sticky for Angular",
+  "main": "cmelo-sticky.js",
+  "authors": [
+    "cmelo"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sticky",
+    "postion sticky",
+    "angular"
+  ],
+  "homepage": "https://github.com/cmelo/angular-sticky",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "5cff58509e9cee18c7c6d8cb08b08fba5bf77079"
+  },
+  "_source": "https://github.com/cmelo/angular-sticky.git",
+  "_target": "^1.0.1",
+  "_originalSource": "cmelo-angular-sticky",
+  "_direct": true
+}

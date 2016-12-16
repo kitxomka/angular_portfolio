@@ -1,0 +1,23 @@
+{
+  "name": "angular_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "bower": "^1.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kitxomka@bitbucket.org/kitxomka/angular_porfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/kitxomka/angular_porfolio#readme"
+}
